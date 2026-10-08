@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadSensoresApp</string>
+    <string name="titulo_simulador">Simulador de Carga y Sensor</string>
+    <string name="btn_descargar">Descargar Imagen (Thread)</string>
+    <string name="desc_imagen_resultado">Resultado de descarga</string>
+    <string name="datos_sensor_esperando">Datos del Sensor: Esperando movimiento...</string>
+</resources>
